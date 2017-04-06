@@ -5,4 +5,4 @@ Tested only on arch linux
   - User ID depends on logged user
 
 If your pulseaudio default.pa is not configured, use this command
-    :pacmd load-module module-dbus-protocol
+   - pacmd load-module module-dbus-protocol
